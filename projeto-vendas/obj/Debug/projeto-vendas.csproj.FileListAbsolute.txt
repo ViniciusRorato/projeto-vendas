@@ -1,0 +1,262 @@
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\projeto-vendas.exe.config
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\projeto-vendas.exe
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\projeto-vendas.pdb
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto-vendas.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto_vendas.Properties.Resources.resources
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto-vendas.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto-vendas.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto-.03FCC760.Up2Date
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto-vendas.exe
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto-vendas.pdb
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\Google.Protobuf.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\MySql.Data.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Buffers.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Memory.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\ZstdSharp.dll
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\Google.Protobuf.pdb
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\Google.Protobuf.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\MySql.Data.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Buffers.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Memory.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Professor\Desktop\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto_vendas.Form1.resources
+C:\Users\Professor\Desktop\projeto-vendas\obj\Debug\projeto_vendas.views.FrmClientes.resources
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\projeto-vendas.exe.config
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\projeto-vendas.exe
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\projeto-vendas.pdb
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\Google.Protobuf.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\K4os.Compression.LZ4.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\K4os.Hash.xxHash.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\MySql.Data.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Buffers.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.IO.Pipelines.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Memory.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Numerics.Vectors.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\ZstdSharp.dll
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\Google.Protobuf.pdb
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\Google.Protobuf.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\K4os.Compression.LZ4.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\K4os.Hash.xxHash.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\MySql.Data.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Buffers.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.IO.Pipelines.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Memory.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Numerics.Vectors.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto-vendas.csproj.AssemblyReference.cache
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto_vendas.Form1.resources
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto_vendas.Properties.Resources.resources
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto_vendas.views.FrmClientes.resources
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto-vendas.csproj.GenerateResource.cache
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto-vendas.csproj.CoreCompileInputs.cache
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto-.03FCC760.Up2Date
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto-vendas.exe
+\\10.68.114.48\PC-Professor\projeto-vendas\obj\Debug\projeto-vendas.pdb
+E:\projeto-vendas\bin\Debug\projeto-vendas.exe.config
+E:\projeto-vendas\bin\Debug\projeto-vendas.exe
+E:\projeto-vendas\bin\Debug\projeto-vendas.pdb
+E:\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.dll
+E:\projeto-vendas\bin\Debug\Google.Protobuf.dll
+E:\projeto-vendas\bin\Debug\K4os.Compression.LZ4.dll
+E:\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\projeto-vendas\bin\Debug\K4os.Hash.xxHash.dll
+E:\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projeto-vendas\bin\Debug\MySql.Data.dll
+E:\projeto-vendas\bin\Debug\System.Buffers.dll
+E:\projeto-vendas\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\projeto-vendas\bin\Debug\System.IO.Pipelines.dll
+E:\projeto-vendas\bin\Debug\System.Memory.dll
+E:\projeto-vendas\bin\Debug\System.Numerics.Vectors.dll
+E:\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\projeto-vendas\bin\Debug\ZstdSharp.dll
+E:\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.xml
+E:\projeto-vendas\bin\Debug\Google.Protobuf.pdb
+E:\projeto-vendas\bin\Debug\Google.Protobuf.xml
+E:\projeto-vendas\bin\Debug\K4os.Compression.LZ4.xml
+E:\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\projeto-vendas\bin\Debug\K4os.Hash.xxHash.xml
+E:\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\projeto-vendas\bin\Debug\MySql.Data.xml
+E:\projeto-vendas\bin\Debug\System.Buffers.xml
+E:\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\projeto-vendas\bin\Debug\System.IO.Pipelines.xml
+E:\projeto-vendas\bin\Debug\System.Memory.xml
+E:\projeto-vendas\bin\Debug\System.Numerics.Vectors.xml
+E:\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\projeto-vendas\obj\Debug\projeto-vendas.csproj.AssemblyReference.cache
+E:\projeto-vendas\obj\Debug\projeto_vendas.Form1.resources
+E:\projeto-vendas\obj\Debug\projeto_vendas.Properties.Resources.resources
+E:\projeto-vendas\obj\Debug\projeto_vendas.views.FrmClientes.resources
+E:\projeto-vendas\obj\Debug\projeto_vendas.views.FrmFuncionarios.resources
+E:\projeto-vendas\obj\Debug\projeto-vendas.csproj.GenerateResource.cache
+E:\projeto-vendas\obj\Debug\projeto-vendas.csproj.CoreCompileInputs.cache
+E:\projeto-vendas\obj\Debug\projeto-.03FCC760.Up2Date
+E:\projeto-vendas\obj\Debug\projeto-vendas.exe
+E:\projeto-vendas\obj\Debug\projeto-vendas.pdb
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\projeto-vendas.exe.config
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\projeto-vendas.exe
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\projeto-vendas.pdb
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Google.Protobuf.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Compression.LZ4.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Hash.xxHash.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\MySql.Data.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Buffers.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.IO.Pipelines.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Memory.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Numerics.Vectors.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\ZstdSharp.dll
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Google.Protobuf.pdb
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Google.Protobuf.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Compression.LZ4.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Hash.xxHash.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\MySql.Data.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Buffers.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.IO.Pipelines.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Memory.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Numerics.Vectors.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.csproj.AssemblyReference.cache
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto_vendas.Form1.resources
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto_vendas.Properties.Resources.resources
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto_vendas.views.FrmClientes.resources
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto_vendas.views.FrmFuncionarios.resources
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.csproj.GenerateResource.cache
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.csproj.CoreCompileInputs.cache
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-.03FCC760.Up2Date
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.exe
+E:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.pdb
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\projeto-vendas.exe.config
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\projeto-vendas.exe
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\projeto-vendas.pdb
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Google.Protobuf.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Compression.LZ4.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Hash.xxHash.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\MySql.Data.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Buffers.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.IO.Pipelines.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Memory.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Numerics.Vectors.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\ZstdSharp.dll
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Google.Protobuf.pdb
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Google.Protobuf.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Compression.LZ4.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\K4os.Hash.xxHash.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\MySql.Data.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Buffers.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.IO.Pipelines.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Memory.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Numerics.Vectors.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\xdsmkdklfsklds\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.csproj.AssemblyReference.cache
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto_vendas.Form1.resources
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto_vendas.Properties.Resources.resources
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto_vendas.views.FrmClientes.resources
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto_vendas.views.FrmFuncionarios.resources
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.csproj.GenerateResource.cache
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.csproj.CoreCompileInputs.cache
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-.03FCC760.Up2Date
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.exe
+D:\xdsmkdklfsklds\projeto-vendas\obj\Debug\projeto-vendas.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto-vendas.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto_vendas.Form1.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto_vendas.Properties.Resources.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto_vendas.views.FrmClientes.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto_vendas.views.FrmFuncionarios.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto-vendas.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto-vendas.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto-vendas.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto-vendas.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\projeto-vendas.exe.config
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\projeto-vendas.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\projeto-vendas.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\Google.Protobuf.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\MySql.Data.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Buffers.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.IO.Pipelines.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Memory.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\ZstdSharp.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\Google.Protobuf.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\Google.Protobuf.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\MySql.Data.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Buffers.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.IO.Pipelines.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Memory.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vinic\OneDrive\Área de Trabalho\projeto-vendas\obj\Debug\projeto-.03FCC760.Up2Date
